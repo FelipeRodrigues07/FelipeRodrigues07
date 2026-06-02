@@ -9,12 +9,14 @@
 </div>
 
 ### Tecnologias🚀
-<div style="display: inline_block"><br/>
-  <img align="center" alt="node" src="https://skillicons.dev/icons?i=nodejs"/>
-  <img align="center" alt="flutter" src="https://skillicons.dev/icons?i=flutter"/>
-  <img align="center" alt="nestjs" src="https://skillicons.dev/icons?i=nestjs"/>
-  <img align="center" alt="NET" src="https://skillicons.dev/icons?i=net"/>
-  <img align="center" alt="postgres" src="https://skillicons.dev/icons?i=postgres"/>
-  <img align="center" alt="docker" src="https://skillicons.dev/icons?i=docker"/>
-  <img align="center" alt="prisma" src="https://skillicons.dev/icons?i=prisma"/>
+
+<div align="center">
+  <img alt="node" src="https://skillicons.dev/icons?i=nodejs"/>
+  <img alt="laravel" src="https://skillicons.dev/icons?i=laravel"/>
+  <img alt="flutter" src="https://skillicons.dev/icons?i=flutter"/>
+  <img alt="nestjs" src="https://skillicons.dev/icons?i=nestjs"/>
+  <img alt="NET" src="https://skillicons.dev/icons?i=net"/>
+  <img alt="postgres" src="https://skillicons.dev/icons?i=postgres"/>
+  <img alt="docker" src="https://skillicons.dev/icons?i=docker"/>
+  <img alt="prisma" src="https://skillicons.dev/icons?i=prisma"/>
 </div>
